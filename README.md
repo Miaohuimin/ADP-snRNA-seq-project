@@ -30,7 +30,7 @@ The raw sequence data have been deposited in the Genome Sequence Archive (Genomi
 │       ├── 06_reference_mapping.R         # Reference mapping
 │       ├── 07_differential_expression.R   # DEG: ADP_H/ADP_C vs ADP_N (clusters 0+19)
 │       ├── 08_Neuron_DEG_GO.R             # Neuronal DEG + GO enrichment
-│       └── 09_AllCellTypes_VolcanoPlots.R # Volcano plots for all cell types
+│       └── 09_AllCellTypes_DEGs.R # Volcano plots for all cell types
 ├── config/                                # Configuration files
 ├── data/                                  # Data directory (raw/processed, gitignored)
 └── results/                               # Output figures and tables
